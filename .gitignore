@@ -84,4 +84,4 @@ coverage.xml
 docs/_build/
 
 # Trello API credentials (never commit these!)
-trello_credentials.json
+trello_credentials.jsonsite/
