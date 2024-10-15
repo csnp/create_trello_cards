@@ -1,0 +1,22 @@
+site_name: Trello Card Creator
+site_url: https://csnp.github.io/create_trello_cards/
+theme:
+  name: 'material'
+  logo: 'images/logo.png'
+  favicon: 'images/logo.png'
+
+nav:
+  - Home: index.md
+  - Installation:
+      - Installation Guide: installation.md
+      - Getting Trello API Credentials: getting_trello_api_credentials.md
+  - Word Document Format: word_document_format.md
+  - Troubleshooting: troubleshooting.md
+  - FAQ: faq.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
