@@ -1,0 +1,4 @@
+flake8
+black
+mdformat
+mdformat-gfm  # For GitHub Flavored Markdown support
