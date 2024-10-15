@@ -1,6 +1,6 @@
 # Trello Card Creator Script
 
-![CSNP Banner](docs/images/banner.png)
+![CSNP Banner](trello-card-creator-docs/docs/images/banner.png)
 
 Effortlessly create Trello cards from a Word document.
 
@@ -54,8 +54,6 @@ Before you begin, make sure you have the following:
 1. **Get the Script**:
    - Download it from the [GitHub Repository](https://github.com/csnp/create_trello_cards).
    - Click the green **"Code"** button, then select **"Download ZIP"**.
-
-     ![Download ZIP](docs/images/download-zip.png)
 
 2. **Extract Files**:
    - After downloading the ZIP file, right-click on it and select **"Extract All..."** (Windows) or double-click it (Mac) to unzip the folder.
